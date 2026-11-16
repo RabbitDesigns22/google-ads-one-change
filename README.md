@@ -22,7 +22,7 @@ This skill gives it:
 ## Install
 
 ```bash
-npx skills add RabbitDesigns22/google-ads-one-change
+npx skills@1.8.1 add https://github.com/RabbitDesigns22/google-ads-one-change/tree/547b177b7e120fcf83f9abef2569184d3fc82f13
 ```
 
 Or copy `skills/google-ads-one-change/` into `~/.claude/skills/`.
